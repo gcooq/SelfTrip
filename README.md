@@ -2,9 +2,6 @@
 ## The source code of 'Self-supervised Representation Learning for Trip Recommendation'
 
 # Notes
-## SelfTrip
-
-source code for SelfTrip this is the implementation of the deep learning based SelfTrip model.
 
 ## Environment
 
